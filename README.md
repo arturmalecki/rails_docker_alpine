@@ -1,4 +1,4 @@
-# Example of smallest Rails 5 application
+# Example of smallest Rails 5 application Docker image
 
 This is example for this [blog post](http://www.devcherry.com/?p=77&preview=true)
 
