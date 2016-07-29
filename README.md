@@ -6,6 +6,10 @@
 
     docker build -t rails_alpine .
 
+### Build image for default ruby image
+
+    docker build -t rails_common -f DockerCommon .
+
 ### Run container
 
     docker run -p 3001:3000 rails_alpine 
