@@ -1,5 +1,7 @@
 # Example of smallest Rails 5 application
 
+This is example for this [blog post](http://www.devcherry.com/?p=77&preview=true)
+
 ## Usage
 
 ### Build image
